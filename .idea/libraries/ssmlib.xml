@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ssmlib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Java全系列/01 Java全系列/06 SSM框架和项目开发/章节3 SpringMVC/软件/软件/ssmlib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Java全系列/01 Java全系列/06 SSM框架和项目开发/章节3 SpringMVC/软件/软件/ssmlib" recursive="false" />
+  </library>
+</component>
